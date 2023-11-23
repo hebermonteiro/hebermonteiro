@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hebermonteiro
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning to code in JavaScript, Python and Ruby
+- 🌱 I’m currently learning to code in HTML, CSS, JavaScript, Python and Ruby
 - 📫 How to reach me: heberqmonteiro@gmail.com
 
 <!---
